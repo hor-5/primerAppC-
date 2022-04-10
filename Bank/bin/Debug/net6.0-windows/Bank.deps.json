@@ -9,11 +9,6 @@
       "Bank/1.0.0": {
         "runtime": {
           "Bank.dll": {}
-        },
-        "resources": {
-          "es-AR/Bank.resources.dll": {
-            "locale": "es-AR"
-          }
         }
       }
     }
