@@ -12,9 +12,9 @@ using System.Windows.Forms;
 
 namespace Bank
 {
-    public partial class FrmLogueo : Form
+    public partial class FrmLogin : Form
     {
-        public FrmLogueo()
+        public FrmLogin()
         {
             InitializeComponent();
         }

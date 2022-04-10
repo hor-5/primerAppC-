@@ -17,4 +17,4 @@ C:\Users\Usuario\source\repos\Core\Bank\obj\Debug\net6.0-windows\Bank.dll
 C:\Users\Usuario\source\repos\Core\Bank\obj\Debug\net6.0-windows\ref\Bank.dll
 C:\Users\Usuario\source\repos\Core\Bank\obj\Debug\net6.0-windows\Bank.pdb
 C:\Users\Usuario\source\repos\Core\Bank\obj\Debug\net6.0-windows\Bank.genruntimeconfig.cache
-C:\Users\Usuario\source\repos\Core\Bank\obj\Debug\net6.0-windows\Bank.FrmLogueo.resources
+C:\Users\Usuario\source\repos\Core\Bank\obj\Debug\net6.0-windows\Bank.FrmLogin.resources

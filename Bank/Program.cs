@@ -10,7 +10,7 @@ namespace Bank
         {
             ApplicationConfiguration.Initialize();
             //Application.Run(new FormMain());
-            Application.Run(new FrmLogueo());
+            Application.Run(new FrmLogin());
 
 
 
