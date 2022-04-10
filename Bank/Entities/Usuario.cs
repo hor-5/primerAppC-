@@ -3,9 +3,9 @@
     public class Usuario
     {
 
-        private string Username { get; set; }
-        private string Clave { get; set; }
-        private float Saldo { get; set; }
+        private string usuario;
+        private string clave;
+        private float saldo;
 
         public Usuario(string usuario, string clave)
         {
@@ -13,6 +13,10 @@
             Clave = clave;
             Saldo = 0;
         }
+
+        public string Username{ get { return usuario; } set { usuario = value; } }
+        public string Clave { get { return clave; } set { clave = value; } }
+        public float Saldo { get { return saldo; } set { saldo = value; } }
 
 
     }
